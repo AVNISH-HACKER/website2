@@ -1,0 +1,51 @@
+*{
+              box-sizing: border-box;
+}
+.container{
+              border: none;
+              margin: 100px auto;
+              width: 1000px;
+              height: 500px;
+              position: relative;
+}
+#bali{
+              width: 100%;
+              object-fit: cover;
+              height: 100%;
+              border: none;
+              border-radius: 15px;
+                        
+}
+.font{
+              font-family: sans-serif;
+              color: white;
+}
+#explore{
+              
+              position: absolute ;
+              left: 270px;
+              right: 270px;
+              top: 210px;
+              text-align: center;
+              font-weight: 600;
+}
+#lorem{
+              position: absolute;
+              left: 10px;
+              right: 10px;
+              top: 270px;
+              text-align: center;
+              font-weight: 530;
+}
+#button{
+              padding: 12px 20px;
+              color: black;
+              position: absolute;
+              top: 335px;
+              right: 447.22px;
+              border: none;
+              border-radius: 50px;
+              font-weight: 550;
+              text-align: center;
+             
+}
